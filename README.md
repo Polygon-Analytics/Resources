@@ -3,7 +3,7 @@ Collection of all first-party and community-developed Polygon Analytical Resourc
 
 Feel free to contribute and add any Analytical Resource. Our CONTRIBUTING.md file provides guidelines on contributions.
 
-## First-party 
+## 📅 First-party 
 #### Polygon User Insights
 https://blog.polygon.technology/category/polygon-user-insights/
 
@@ -11,7 +11,7 @@ https://blog.polygon.technology/category/polygon-user-insights/
 https://twitter.com/RaphaelSignal/status/1425949960076464128
 
 
-## Community created
+## ❤️ Community created
 
 #### Network Analysis
 https://pro.nansen.ai/multichain/polygon?network=polygon
