@@ -18,6 +18,7 @@ https://twitter.com/RaphaelSignal/status/1425949960076464128
   
   - [Pegaxy](https://twitter.com/Simran__02/status/1465596572117307394?s=20) - DAU, Txns., Avg. txn/user [Week 44-47]
   - [REVV Racing](https://twitter.com/Simran__02/status/1463265878682726403?s=20) - DAU, Txns., Cost/tx, Savings [Week 39-46]
+  - [Aave](https://twitter.com/RaphaelSignal/status/1416459270984450050) - DAU, TVL, Network Revenue [Week 19-27]
   
   
 </details>
