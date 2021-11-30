@@ -10,6 +10,43 @@ https://blog.polygon.technology/category/polygon-user-insights/
 #### Retention Metrics 
 https://twitter.com/RaphaelSignal/status/1425949960076464128
 
+## 🧵 Analytics Threads
+
+<details>
+<summary>dApp Performance Threads</summary>
+<br>
+  
+  - [Pegaxy](https://twitter.com/Simran__02/status/1465596572117307394?s=20) - DAU, Txns., Avg. txn/user [Week 44-47]
+  - [REVV Racing](https://twitter.com/Simran__02/status/1463265878682726403?s=20) - DAU, Txns., Cost/tx, Savings [Week 39-46]
+  
+  
+</details>
+
+<details>
+<summary>Weekly Network Analysis</summary>
+<br>
+    
+  - [Week 45](https://twitter.com/RaphaelSignal/status/1461077340667187212) 
+  - [Week 44](https://twitter.com/RaphaelSignal/status/1461077340667187212) 
+  - [Week 43 Retention](https://twitter.com/RaphaelSignal/status/1456747558412464131) 
+  - [Week 43 Engagement](https://twitter.com/RaphaelSignal/status/1456013104303722506)
+  - [Week 42 Retention](https://twitter.com/RaphaelSignal/status/1454170094679076887) 
+  - [Week 42 Engagement](https://twitter.com/RaphaelSignal/status/1453755182244929538) 
+  - [Week 41 Engagement](https://twitter.com/RaphaelSignal/status/1451286952251207687) 
+  - [Week 40](https://twitter.com/RaphaelSignal/status/1449083725514477573) 
+  - [Week 39](https://twitter.com/RaphaelSignal/status/1445753437879103491) 
+  - [Week 38](https://twitter.com/RaphaelSignal/status/1443239702077841410) 
+  - [Week 37](https://twitter.com/RaphaelSignal/status/1440363060393234440) 
+  - [Week 36 Retention](https://twitter.com/RaphaelSignal/status/1438212370011246594) 
+  - [Week 36](https://twitter.com/RaphaelSignal/status/1437903466077229062) 
+  - [Week 35 Retention](https://twitter.com/RaphaelSignal/status/1436353873795551236) 
+  - [Week 35 Engagement](https://twitter.com/RaphaelSignal/status/1435698110328713221) 
+  - [Week 33 Retention](https://twitter.com/RaphaelSignal/status/1431688605563604997) 
+  - [Week 33 Engagement](https://twitter.com/RaphaelSignal/status/1430543761361281025) 
+  - [Week 32 Engagement](https://twitter.com/RaphaelSignal/status/1427651959230697475)
+  - [Week 31 Engagement](https://twitter.com/RaphaelSignal/status/1425949960076464128)
+  
+</details>
 
 ## ❤️ Community created
 
