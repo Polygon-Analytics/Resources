@@ -178,7 +178,7 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
 | ------------- | ------------- | ------------- |
 | [Network Daily Overview](https://dune.xyz/nascent/Polygon:0) | Transaction and Users | [@nascent](https://dune.xyz/nascent) |
 
-  
+&nbsp;
 </details>
 
 
@@ -194,7 +194,8 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
 | [Dfyn](https://dune.xyz/vatsal/Dfyn.network) | Dfyn Network User Analytics | [@vatsal](https://dune.xyz/vatsal) |
 | [Aave](https://dune.xyz/aavegrantsdao/Aave-Polygon-Growth-WIP) | Aave Market on Polygon user growth | [@aavegrantsdao](https://dune.xyz/aavegrantsdao) |
 | [RabbitHole](https://dune.xyz/drethereum/RabbitHole:-Explore-Polygon) | RabbitHole on Polygon user and protocol analytics | [@drethereum](https://dune.xyz/drethereum) |
-  
+
+&nbsp;
 </details>
 
 
@@ -207,7 +208,8 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
 | ------------- | ------------- | ------------- |
 | [OpenSea Analysis](https://dune.xyz/rchen8/opensea) | Polygon OpenSea activity vs OpenSea on Etheruem | [@rchen8](https://dune.xyz/rchen8) |
 | [PolygonPunks](https://dune.xyz/ek247375/PolygonPunks) | PolygonPunks transactions, users, volume, activity | [@ek247375](https://dune.xyz/ek247375) |
-  
+
+&nbsp;
 </details>
 
 
@@ -221,6 +223,7 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
 | [Polygon Bridge](https://dune.xyz/nascent/Polygon-Bridge:-(Public)) | Bridge activity and volume | [@nascent](https://dune.xyz/nascent) |
 | [PoS and Plasma Bridge](https://dune.xyz/lsquared/Matic-Polygon-Bridge-Monitoring) | Bridge activity and volume | [@lsquared](https://dune.xyz/lsquared) |
   
+&nbsp;
 </details>
 
 
@@ -234,6 +237,8 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
 | [HOPR](https://dune.xyz/hoprnet/HOPR-Polygon-Test-Net) | HOPR Polygon Wildhorn Testnet | [@hoprnet](https://dune.xyz/hoprnet) |
 | [DeNet](https://dune.xyz/djdeniro/DeNet-Storage) | DeNet Storage | [@djdeniro](https://dune.xyz/djdeniro) |
   
+    
+&nbsp;
 </details>
 
 
