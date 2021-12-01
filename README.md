@@ -84,3 +84,8 @@ https://app.uniwhales.io/polygon/bridge-tracker
 #### [PolygonScan](https://polygonscan.com)
 
 #### [BitQuery](https://explorer.bitquery.io/matic)
+
+
+## Transactions and Statistics' Twitter Bot
+
+  - [@polygon_alerts](https://twitter.com/polygon_alerts) - Network transaction and gas statistics every six hours; dApp overview every week
