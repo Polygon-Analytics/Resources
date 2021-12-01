@@ -165,7 +165,7 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
 &nbsp;
 <a name="dune"></a>
 
-## 🔎 Community Dune Dashboards
+## 🗺️ Community Dune Dashboards
 
 [Megadashboard](https://dune.xyz/KARTOD/Polygon-Mega-Dashboard) - Transactions, users, bridge, DEX, Gas, OpenSea
 
@@ -244,7 +244,7 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
 &nbsp;
 <a name="explorers"></a>
 
-## Block Explorers
+## 🔎 Block Explorers
 
 <table>
   <tr>
@@ -267,7 +267,7 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
 &nbsp;
 <a name="bot"></a>
 
-## Twitter Bots
+## 🤖 Twitter Bots
   - [@polygon_alerts](https://twitter.com/polygon_alerts) - Network transaction and gas statistics every six hours; dApp overview every week
 
 
