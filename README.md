@@ -119,6 +119,7 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
   
 | Week  | Analysis Category |
 | ------------- | ------------- |
+| [Week 47](https://twitter.com/RaphaelSignal/status/1466126820802273284) | Engagement |
 | [Week 45](https://twitter.com/RaphaelSignal/status/1461077340667187212) | Engagement |
 | [Week 44](https://twitter.com/RaphaelSignal/status/1461077340667187212)  | Engagement |
 | [Week 43](https://twitter.com/RaphaelSignal/status/1456747558412464131)  | Retention |
