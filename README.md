@@ -75,7 +75,7 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
     <th>Link</th>
   </tr>
 
-    <tr>
+  <tr>
     <td>Decentral Games</td>
     <td>DAU, Txns., Avg. txn/user</td>
     <td>Week 44-48, 2021</td>
@@ -84,7 +84,7 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
       </a>
     </td>
-    </tr>
+  </tr>
   
   <tr>
     <td>Pegaxy</td>
