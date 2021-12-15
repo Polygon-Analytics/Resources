@@ -74,6 +74,17 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
     <th>Time Period</th>
     <th>Link</th>
   </tr>
+    
+  <tr>
+    <td>QiDao</td>
+    <td>DAU, Txns., Avg. txn/user</td>
+    <td>Week 47-49, 2021</td>
+    <td>
+      <a href="https://twitter.com/Simran__02/status/1471062206548627459?s=20">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+      </a>
+    </td>
+  </tr>
 
   <tr>
     <td>Decentral Games</td>
@@ -130,6 +141,8 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
   
 | Week  | Analysis Category |
 | ------------- | ------------- |
+| [Week 49](https://twitter.com/RaphaelSignal/status/1471234712467292161?s=20) | Engagement |
+| [Week 48](https://twitter.com/RaphaelSignal/status/1468635345919127552?s=20) | Engagement |
 | [Week 47](https://twitter.com/RaphaelSignal/status/1467249397612302339?s=20) | Retention |
 | [Week 47](https://twitter.com/RaphaelSignal/status/1466126820802273284) | Engagement |
 | [Week 45](https://twitter.com/RaphaelSignal/status/1461077340667187212) | Engagement |
