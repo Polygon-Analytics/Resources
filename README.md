@@ -87,6 +87,17 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
   </tr>
     
   <tr>
+    <td>Uniswap v3</td>
+    <td>DAU, Txns., Avg. txn/user, Hypothetical Cost Savings, Volume/TVL</td>
+    <td>Week 51 2021 - Week 02, 2022</td>
+    <td>
+      <a href="https://twitter.com/Simran__02/status/1483032634322481154?s=20">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+    
+  <tr>
     <td>Crazy Defense Heroes</td>
     <td>DAU, Txns., Avg. txn/user, Hypothetical Cost Savings</td>
     <td>Week 48-50, 2021</td>
@@ -163,6 +174,9 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
   
 | Week  | Analysis Category |
 | ------------- | ------------- |
+| [Week 02](https://twitter.com/RaphaelSignal/status/1483988476605259776?s=20) | Bridges and Engagement |
+| [Week 01](https://twitter.com/RaphaelSignal/status/1481705595652694017?s=20) | Bridges and Engagement |
+| ---2021--- |  |
 | [Week 50](https://twitter.com/RaphaelSignal/status/1474060585562161168?s=20) | Bridges and Engagement |
 | [Week 49](https://twitter.com/RaphaelSignal/status/1471234712467292161?s=20) | Engagement |
 | [Week 48](https://twitter.com/RaphaelSignal/status/1468635345919127552?s=20) | Engagement |
