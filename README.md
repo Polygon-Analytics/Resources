@@ -87,6 +87,17 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
   </tr>
     
   <tr>
+    <td>Arc8</td>
+    <td>DAU, Txns., Avg. txn/user, NFTs</td>
+    <td>Week 01 - 03, 2022</td>
+    <td>
+      <a href="https://twitter.com/Simran__02/status/1485580767585792002?s=20&t=iLWokGZ8X1E8gwtKBDwFlQ">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+    
+  <tr>
     <td>Uniswap v3</td>
     <td>DAU, Txns., Avg. txn/user, Hypothetical Cost Savings, Volume/TVL</td>
     <td>Week 51 2021 - Week 02, 2022</td>
@@ -174,6 +185,7 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
   
 | Week  | Analysis Category |
 | ------------- | ------------- |
+| [Week 06](https://twitter.com/RaphaelSignal/status/1494818445019385857?s=20&t=iLWokGZ8X1E8gwtKBDwFlQ) | Engagement |
 | [Week 02](https://twitter.com/RaphaelSignal/status/1483988476605259776?s=20) | Bridges and Engagement |
 | [Week 01](https://twitter.com/RaphaelSignal/status/1481705595652694017?s=20) | Bridges and Engagement |
 | ---2021--- |  |
@@ -202,6 +214,20 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
 | [Week 33](https://twitter.com/RaphaelSignal/status/1430543761361281025)  | Engagement |
 | [Week 32](https://twitter.com/RaphaelSignal/status/1427651959230697475) | Engagement |
 | [Week 31](https://twitter.com/RaphaelSignal/status/1425949960076464128)| Engagement |
+
+  
+</details>
+
+<details>
+<summary>OpenSea NFT</summary>
+<br>
+    
+  
+| Period  | 
+| ------------- |
+| [Week 07](https://twitter.com/Simran__02/status/1496073453031784448?s=20&t=iLWokGZ8X1E8gwtKBDwFlQ)  | 
+| [Week 06](https://twitter.com/Simran__02/status/1493554650393415684?s=20&t=iLWokGZ8X1E8gwtKBDwFlQ) | 
+| [January 2022](https://twitter.com/Simran__02/status/1488834186135756812?s=20&t=iLWokGZ8X1E8gwtKBDwFlQ)| 
 
   
 </details>
