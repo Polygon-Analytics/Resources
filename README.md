@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
     <a href="https://polygon.technology" target="_blank">
-        <img height="40px" src="https://polygon.technology/wp-content/uploads/2021/07/polygon-logo.svg" alt="Polygon Logo">
+        <img height="120px" src="https://github.com/Polygon-Analytics/Resources/blob/main/Assets/logo.png?raw=true" alt="Polygon Logo">
     </a>
 </p>
 
