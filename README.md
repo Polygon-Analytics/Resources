@@ -131,17 +131,6 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
   </tr>
     
   <tr>
-    <td>OpenSea</td>
-    <td>Volume, NFTs, Users</td>
-    <td>January, 2022</td>
-    <td>
-      <a href="https://twitter.com/Simran__02/status/1488834186135756812?s=20&t=L54l58iXJkxxJCTS8RdMSA">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-    
-  <tr>
     <td>Arc8</td>
     <td>DAU, Txns., Avg. txn/user, NFTs</td>
     <td>Week 01 - 03, 2022</td>
@@ -234,12 +223,14 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
 </details>
 
 <details>
-<summary>Weekly Network Analysis</summary>
+<summary>Network and Category</summary>
 <br>
     
   
 | Week  | Analysis Category |
 | ------------- | ------------- |
+| [All Time](https://twitter.com/Simran__02/status/1521785869786808326?s=20&t=L54l58iXJkxxJCTS8RdMSA) | Active users - Polygon/Solana |
+| [All Time](https://twitter.com/Simran__02/status/1513565050199752705?s=20&t=L54l58iXJkxxJCTS8RdMSA) | NFT Acctivity |
 | [Week 12](https://twitter.com/RaphaelSignal/status/1509964298495438848) | Engagement |
 | [Week 06](https://twitter.com/RaphaelSignal/status/1494818445019385857?s=20&t=iLWokGZ8X1E8gwtKBDwFlQ) | Engagement |
 | [Week 02](https://twitter.com/RaphaelSignal/status/1483988476605259776?s=20) | Bridges and Engagement |
@@ -274,6 +265,7 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
   
 </details>
 
+
 <details>
 <summary>OpenSea NFT</summary>
 <br>
@@ -281,6 +273,7 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
   
 | Period  | 
 | ------------- |
+| [January 2022](https://twitter.com/Simran__02/status/1488834186135756812?s=20&t=L54l58iXJkxxJCTS8RdMSA)  | 
 | [Week 07](https://twitter.com/Simran__02/status/1496073453031784448?s=20&t=iLWokGZ8X1E8gwtKBDwFlQ)  | 
 | [Week 06](https://twitter.com/Simran__02/status/1493554650393415684?s=20&t=iLWokGZ8X1E8gwtKBDwFlQ) | 
 | [January 2022](https://twitter.com/Simran__02/status/1488834186135756812?s=20&t=iLWokGZ8X1E8gwtKBDwFlQ)| 
