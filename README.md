@@ -87,6 +87,61 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
   </tr>
     
   <tr>
+    <td>PoolTogether</td>
+    <td>DAUs, Transactions, Tickets</td>
+    <td>March 07-27, 2022</td>
+    <td>
+      <a href="https://twitter.com/Simran__02/status/1509125182463610882?s=20&t=L54l58iXJkxxJCTS8RdMSA">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+    
+  <tr>
+    <td>Animoca Brands: REVV Racing, Crazy Def. Heroes, Arc8</td>
+    <td>DAUs, Transactions, NFTs</td>
+    <td>February 28 - March 20, 2022</td>
+    <td>
+      <a href="https://twitter.com/Simran__02/status/1506589291841036293?s=20&t=L54l58iXJkxxJCTS8RdMSA">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+    
+  <tr>
+    <td>OpenSea</td>
+    <td>Volume, NFTs, Users</td>
+    <td>February 14-20, 2022</td>
+    <td>
+      <a href="https://twitter.com/Simran__02/status/1496073453031784448?s=20&t=L54l58iXJkxxJCTS8RdMSA">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+    
+  <tr>
+    <td>OpenSea</td>
+    <td>Volume, NFTs, Users</td>
+    <td>February 07-13, 2022</td>
+    <td>
+      <a href="https://twitter.com/Simran__02/status/1493554650393415684?s=20&t=L54l58iXJkxxJCTS8RdMSA">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+    
+  <tr>
+    <td>OpenSea</td>
+    <td>Volume, NFTs, Users</td>
+    <td>January, 2022</td>
+    <td>
+      <a href="https://twitter.com/Simran__02/status/1488834186135756812?s=20&t=L54l58iXJkxxJCTS8RdMSA">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+    
+  <tr>
     <td>Arc8</td>
     <td>DAU, Txns., Avg. txn/user, NFTs</td>
     <td>Week 01 - 03, 2022</td>
