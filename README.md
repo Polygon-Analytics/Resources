@@ -230,7 +230,7 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
 | Week  | Analysis Category |
 | ------------- | ------------- |
 | [All Time](https://twitter.com/Simran__02/status/1521785869786808326?s=20&t=L54l58iXJkxxJCTS8RdMSA) | Active users - Polygon/Solana |
-| [All Time](https://twitter.com/Simran__02/status/1513565050199752705?s=20&t=L54l58iXJkxxJCTS8RdMSA) | NFT Acctivity |
+| [All Time](https://twitter.com/Simran__02/status/1513565050199752705?s=20&t=L54l58iXJkxxJCTS8RdMSA) | NFT Activity |
 | [Week 12](https://twitter.com/RaphaelSignal/status/1509964298495438848) | Engagement |
 | [Week 06](https://twitter.com/RaphaelSignal/status/1494818445019385857?s=20&t=iLWokGZ8X1E8gwtKBDwFlQ) | Engagement |
 | [Week 02](https://twitter.com/RaphaelSignal/status/1483988476605259776?s=20) | Bridges and Engagement |
