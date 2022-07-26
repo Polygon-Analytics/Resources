@@ -54,7 +54,7 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
 ## ✅ Official Newsletters and Blogs
 
 <p align="center">
-    <a href="https://polygonanalytics.substack.com" target="_blank">
+    <a href="https://blog.polygon.technology/category/polygon-analytics/" target="_blank">
         <img height="120px" src="https://github.com/Polygon-Analytics/Resources/blob/main/Assets/Polygon%20Insights%20Cover.png?raw=true" alt="Polygon Insights Logo">
     </a>
 </p>
