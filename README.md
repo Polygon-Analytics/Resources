@@ -60,8 +60,8 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
 </p>
 
 <p align="center">
-    <a href="https://twitter.com/0xPolygon/status/1474024548236472327?s=20" target="_blank">
-        Polygon Insights Newsletter
+    <a href="https://blog.polygon.technology/category/polygon-analytics/" target="_blank">
+        Polygon Insights Newsletter and Official Blogs
     </a>
 </p>
 <!-- #### [Polygon User Insights](https://blog.polygon.technology/category/polygon-user-insights/) - Network analysis covering engagement and cost metrics -->
@@ -240,6 +240,7 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
   
 | Timeperiod  | Analysis Category |
 | ------------- | ------------- |
+| [All Time](https://twitter.com/Simran__02/status/1549029044112752646?s=20&t=xPd8_qVAtR3TXBOPdc1_2Q) | NFT Activity |
 | [May](https://twitter.com/Simran__02/status/1531958141239570433?s=20&t=zDyLJ0lO-cCEPaBQUf1c6A) | Ecosystem |
 | [Week 20](https://twitter.com/Simran__02/status/1528705655229792256?s=20&t=pop7HvFv3wPkP6DcHB_svQ) | Ecosystem |
 | [Week 19](https://twitter.com/Simran__02/status/1526166219287855104?s=20&t=pop7HvFv3wPkP6DcHB_svQ) | Ecosystem |
