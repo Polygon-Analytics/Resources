@@ -389,7 +389,9 @@ Feel free to contribute and add any Analytical Resource. Our `CONTRIBUTING.md` f
 | ------------- | ------------- | ------------- |
 | [MATIC](https://dune.xyz/datanut/Polygon-MATIC) | MATIC Wallets | [@datanut](https://dune.xyz/datanut) |
 | [HOPR](https://dune.xyz/hoprnet/HOPR-Polygon-Test-Net) | HOPR Polygon Wildhorn Testnet | [@hoprnet](https://dune.xyz/hoprnet) |
+| [DeNet V2][(https://dune.xyz/djdeniro/DeNet-Storage](https://dune.com/djdeniro/storageprotocol-v2)) | DeNet Storage Protocol V2| [@djdeniro](https://dune.xyz/djdeniro) |
 | [DeNet](https://dune.xyz/djdeniro/DeNet-Storage) | DeNet Storage | [@djdeniro](https://dune.xyz/djdeniro) |
+  
   
     
 &nbsp;
